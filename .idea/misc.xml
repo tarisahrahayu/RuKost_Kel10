@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.156" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/drawable/button.xml" value="0.156" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/drawable/ic_baseline_new_releases_24.xml" value="0.156" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/drawable/ic_launcher_background.xml" value="0.156" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/drawable/kosan_background.xml" value="0.1045" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/fade_transition.xml" value="0.14666666666666667" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/form_sewa.xml" value="0.16666666666666666" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/formsewa.xml" value="0.22" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/info_bayar.xml" value="0.16666666666666666" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/info_pembayaran_berhasil.xml" value="0.22" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/info_sewa.xml" value="0.22" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/info_sewa2.xml" value="0.184375" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/info_sewa22.xml" value="0.184375" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/kalender.xml" value="0.22" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/kalender2.xml" value="0.184375" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/main.xml" value="0.16666666666666666" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/main2.xml" value="0.10625" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/metode_bayar.xml" value="0.184375" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/layout/pembayaran.xml" value="0.15555555555555556" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/mipmap-anydpi-v26/kosan.xml" value="0.1045" />
+        <entry key="..\:/PCR - Semester 5/Workshop Pemograman Mobile/Project_Mobile/app/src/main/res/mipmap-anydpi-v26/kosan_round.xml" value="0.1045" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
